@@ -1,4 +1,4 @@
-# 🏄‍♂️ Henrique Leszczynski
+# Henrique Leszczynski
 
 Sou publicitário migrando de carreira. Sempre me interessei por tecnologia, mas foi em 2023 realmente decidi me dedicar para aprender programação. Inicialemente explorando tecnologias front-end.
 
